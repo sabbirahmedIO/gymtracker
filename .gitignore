@@ -1,0 +1,15 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Env files (never commit secrets)
+.env
+backend/.env
+
+# Build output
+frontend/dist/
+frontend/build/
+
+# OS/editor
+.DS_Store
+.vscode/
